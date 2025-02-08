@@ -1,0 +1,1 @@
+My expectations for my journey in CMSC 100 is that I will be able to learn or atleast get a gist of how to create a program/product as a whole starting from the design process upto managing the different components of the program such as front-end, back-end, and database section. 
