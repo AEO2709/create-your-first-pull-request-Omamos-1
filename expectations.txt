@@ -1,1 +1,11 @@
-My expectations for my journey in CMSC 100 is that I will be able to learn or atleast get a gist of how to create a program/product as a whole starting from the design process upto managing the different components of the program such as front-end, back-end, and database section. 
+My expectations for my journey in CMSC 100 is that I will be 
+able to learn or atleast get a gist of how to create a 
+program/product as a whole starting from the design process 
+upto managing the different components of the program such as 
+front-end, back-end, and database section. 
+
+Comments:
+     I would say your expectations are holistic and I too would
+     love to acquire skills about the design process in web development.
+     Overall, I hope you enjoy this course and I look forward working
+     with you in the future.
